@@ -1,0 +1,10 @@
+C:\Users\FarkasZ\source\repos\számológép\bin\Debug\számológép.exe.config
+C:\Users\FarkasZ\source\repos\számológép\bin\Debug\számológép.exe
+C:\Users\FarkasZ\source\repos\számológép\bin\Debug\számológép.pdb
+C:\Users\FarkasZ\source\repos\számológép\obj\Debug\számológép.csproj.AssemblyReference.cache
+C:\Users\FarkasZ\source\repos\számológép\obj\Debug\számológép.Form1.resources
+C:\Users\FarkasZ\source\repos\számológép\obj\Debug\számológép.Properties.Resources.resources
+C:\Users\FarkasZ\source\repos\számológép\obj\Debug\számológép.csproj.GenerateResource.cache
+C:\Users\FarkasZ\source\repos\számológép\obj\Debug\számológép.csproj.CoreCompileInputs.cache
+C:\Users\FarkasZ\source\repos\számológép\obj\Debug\számológép.exe
+C:\Users\FarkasZ\source\repos\számológép\obj\Debug\számológép.pdb
